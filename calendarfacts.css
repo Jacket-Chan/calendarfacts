@@ -18,14 +18,19 @@ body {
 	float: left;
 	width:18%;
 	height: 100%;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	justify-content: center;
 	align-items: center;
 	display: flex;
+	font-family: 'Thasadith', sans-serif;
 }
 #footer_how_it_works {
 	background-color: brown;
 }
 #footer_home {
 	background-color: yellow;
+}
+a {
+	color: black;
+	text-decoration: none;
 }
