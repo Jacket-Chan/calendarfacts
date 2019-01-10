@@ -6,13 +6,13 @@ body {
 	margin: 0;
 	width: 100vw;
 	height: 93vh;
-	background-color: blue;
+	background-color: #A635FF;
 }
 #footer {
 	margin: 0;
 	width: 100vw;
 	height: 7vh;
-	background-color: green;
+	background-color: #641B9C;
 }
 .footer_box {
 	float: left;
@@ -23,12 +23,6 @@ body {
 	align-items: center;
 	display: flex;
 	font-family: 'Thasadith', sans-serif;
-}
-#footer_how_it_works {
-	background-color: brown;
-}
-#footer_home {
-	background-color: yellow;
 }
 a {
 	color: black;
